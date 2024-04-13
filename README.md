@@ -22,9 +22,10 @@
 <br />
 
 ---
-
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitssalah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gitssalah&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
