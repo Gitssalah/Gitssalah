@@ -7,10 +7,8 @@
 ### Languages and Tools
 <div>
         <img align="left" alt="Cpp" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="padding-right:10px;"/>
-        <img align="left" alt="Rust" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" style="padding-right:10px;" />
+        <img align="left" alt="Rust" width="35px" src="https://ih1.redbubble.net/image.3695673810.0317/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" style="padding-right:10px;" />
         <img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>
-        <img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-        <img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
         <img align="left" alt="Javascript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
         <img align="left" alt="Typescript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" style="padding-right:10px;"/>
         <img align="left" alt="Spring" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="padding-right:10px;" />
